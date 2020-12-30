@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Test App One</string>
+    <string name="login_instruct">Please place your fingertip on the scanner for verification</string>
+</resources>
